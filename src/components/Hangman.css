@@ -1,0 +1,90 @@
+.hangman {
+    width: 10rem;
+    height: 10rem;
+    margin: 0 auto;
+    position: relative;
+}
+
+#a1 {
+    width: 100%;
+    border-bottom: 3px solid black;
+    position: absolute;
+    bottom: 0;
+}
+
+#a2 {
+    height: 100%;
+    border-left: 3px solid black;
+    position: absolute;
+    left: 20%;
+}
+
+#a3 {
+    width: 50%;
+    border-bottom: 3px solid black;
+    position: absolute;
+    top: 0;
+    left: 20%;
+}
+
+#a4 {
+    height: 10%;
+    border-left: 3px solid black;
+    position: absolute;
+    top: 0;
+    left: 70%;
+}
+
+#a5 {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    border: 3px solid black;
+    position: absolute;
+    top: 10%;
+    left: 60%;
+}
+
+#a6 {
+    height: 30%;
+    border-left: 3px solid black;
+    position: absolute;
+    top: 30%;
+    left: 70%;
+}
+
+#a7 {
+    height: 30%;
+    border-left: 3px solid black;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 30%;
+    left: 60%;
+}
+
+#a8 {
+    height: 30%;
+    border-left: 3px solid black;
+    transform: rotate(-45deg);
+    position: absolute;
+    top: 30%;
+    left: 80%;
+}
+
+#a9 {
+    height: 30%;
+    border-left: 3px solid black;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 55%;
+    left: 60%;
+}
+
+#a10 {
+    height: 30%;
+    border-left: 3px solid black;
+    transform: rotate(-45deg);
+    position: absolute;
+    top: 55%;
+    left: 80%;
+}

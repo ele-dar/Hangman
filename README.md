@@ -1,0 +1,1 @@
+Hangman game (in Lithuanian) built with React
